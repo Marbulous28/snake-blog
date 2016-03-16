@@ -12,3 +12,13 @@
   text-align: center;
   color: blue;
 }
+
+.img{
+  float: right;
+  margin: 0 10px 0 0;
+  width: 30%;
+}
+
+.sidebar{
+  float: right;
+}
